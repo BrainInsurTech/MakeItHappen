@@ -30,7 +30,7 @@
 ### Τι τεχνολογίες χρησιμοποιεί
 - Front-end: Web Technologies HTML5, CSS3, Bootstrap 4, **Javascript(ES6)**
 - Back-end: EJS, NodeJS, ExpressJS, MongoDB, **Blockchain** (Hyperledger-fabric)
-- **Ποσοστό Υλοποίησης Prototype 80% - Δυνατότητα Παράδοσης Προϊόντος σε 2 Βδομάδες**
+- **Ποσοστό Υλοποίησης Prototype 80% - Δυνατότητα Παράδοσης Application σε 2 Βδομάδες**
 
 ### Γιατί οι Ασφαλιστικές Εταιρίες μας Χρειάζονται Σήμερα
 - All In One Solution
